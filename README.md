@@ -32,7 +32,6 @@ Calculated total sales, total profit, and profit margin for each customer segmen
 Compared average discount levels with sales, profit, and profit margin across regions.
 
 ## Dashboard
-![Retail Sales Dashboard](Dashboard.png)
 The Excel dashboard contains:
 
 - Total Sales
